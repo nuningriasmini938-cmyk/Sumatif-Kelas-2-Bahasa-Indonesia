@@ -1,0 +1,6 @@
+{
+  "name": "Tes Sumatif Bahasa Indonesia Kelas II - SDN 3 Loloan Timur",
+  "description": "Aplikasi Tes Sumatif Berbasis Web Bahasa Indonesia Kelas II Materi Menjaga Kesehatan - SD Negeri 3 Loloan Timur",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
